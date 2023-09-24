@@ -1,0 +1,9 @@
+Teste
+Teste 2
+Outro teste
+Caracteres especiais: àáéêóç
+çáé
+çãéó
+çãéó
+çáéãó
+çáéãó

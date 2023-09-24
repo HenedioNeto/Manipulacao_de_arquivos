@@ -1,0 +1,7 @@
+O que o modulo ira tratar
+
+- Leitura e escrita de arquivo txt 
+- Leitura e escrita de arquivo Csv
+- Escrita de PDF 
+- Agenda de Contatos (projeto)
+- Gerador de recibo (projeto)
